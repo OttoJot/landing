@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px;
+}
+
+.cards img {
+  height: 100px;
+}
+
+.card {
+  padding: 30px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  text-align: center
+}
+
+.works-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+

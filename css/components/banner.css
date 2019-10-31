@@ -1,0 +1,22 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 19px;
+  padding: 200px 0;
+  background-position: center;
+}
+
+.banner .banner-container {
+  color: white;
+}
+
+.apply-btn {
+  background-color: #1EDD88;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: 19px;
+}

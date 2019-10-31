@@ -1,0 +1,24 @@
+.footer {
+  height: 100px;
+  background-color: rgb(20, 20, 20);
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  font-size: 30px;
+}
+
+.footer-content i {
+  color: white;
+  margin: 10px;
+}
+
+#heart {
+  margin: 0px;
+}
